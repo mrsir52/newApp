@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+}
+.container {
+    margin: auto;
+}
+.intro {
+
+  background: url('https://previews.123rf.com/images/efks/efks1501/efks150100489/35550925-american-stadium.jpg'); fixed, background-repeat: no-repeat; background-size: cover;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  height: 100vh;
+
+}
+
+.CardBody {
+    align: center;
+}
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
